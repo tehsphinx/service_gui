@@ -96,8 +96,8 @@ func onWait(_ *astilectron.Astilectron, w *astilectron.Window, _ *astilectron.Me
 		return
 	})
 
-	startLA()
-	checkLA()
+	//startLA()
+	//checkLA()
 	return nil
 }
 
