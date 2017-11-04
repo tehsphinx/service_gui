@@ -1,0 +1,7 @@
+{
+  "app_name": "LocalAdapter",
+  "icon_path_darwin": "resources/rr.icns",
+  "icon_path_linux": "resources/rr.png",
+  "icon_path_windows": "resources/rr.ico",
+  "output_path": "output"
+}
